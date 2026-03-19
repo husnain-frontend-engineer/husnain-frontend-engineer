@@ -75,11 +75,6 @@ Internal system at Enigmatix for tracking 50+ projects simultaneously; eliminate
 - **Tech Stack:** React, Redux Toolkit, MobX, CSS Modules, Jest
 - **Key Achievement:** Built reusable component library used across 50+ internal projects
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🎓 Education
 
