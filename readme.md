@@ -70,7 +70,7 @@ Norwegian e-commerce client project. Redesigned homepage and products page; adde
 - **Tech Stack:** Next.js, TypeScript, Playwright, CSS Modules
 - **Key Achievement:** Implemented comprehensive Playwright tests for critical user flows
 
-### OMS | Office Management System
+### [OMS](https://www.oms.enigmatix.co/) | Office Management System
 Internal system at Enigmatix for tracking 50+ projects simultaneously; eliminated workflow bottlenecks for thousands of employees.
 - **Tech Stack:** React, Redux Toolkit, MobX, CSS Modules, Jest
 - **Key Achievement:** Built reusable component library used across 50+ internal projects
