@@ -65,10 +65,6 @@ What sets me apart? I don't just build features—I make them faster, smaller, a
 Production platform serving **South Africa and Switzerland**. Implemented property search (residential/commercial) with Google Maps, Paystack integration, and Smile ID for KYC verification. Supports **1,000+ daily active users**.
 - **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Sanity CMS, AWS S3
 
-### [Pafyll](https://pafyll.com) | E-commerce Platform
-Norwegian e-commerce client project. Redesigned homepage and products page; added contact page with end-to-end testing.
-- **Tech Stack:** Next.js, TypeScript, Playwright, CSS Modules
-- **Key Achievement:** Implemented comprehensive Playwright tests for critical user flows
 
 ### [OMS](https://www.oms.enigmatix.co/) | Office Management System
 Internal system at Enigmatix for tracking 50+ projects simultaneously; eliminated workflow bottlenecks for thousands of employees.
