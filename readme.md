@@ -1,117 +1,92 @@
-<h1 align="center">Hi 👋, I'm Husnain</h1>
-<h3 align="center">A passionate Senior React Native Developer from Lahore, Pakistan</h3>
+# Hi 👋, I'm Abu Husnain
 
-<p align="center">
-  <a href="mailto:husnain.bin.ramzan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+**Code. Optimize. Scale. Repeat.**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ## 🚀 About Me
 
-I am a passionate mobile application developer with expertise in **React Native**, having developed multiple successful applications across various domains. I deliver high-quality, user-friendly apps and lead teams to success. My projects focus on **real-time communication**, **performance optimization**, and **seamless user experience**, showcasing my commitment to exceptional software development.
+I'm a Software Engineer with 3+ years of experience architecting and delivering scalable web applications for enterprise clients. I specialize in React, Next.js, and TypeScript, with a passion for clean architecture, performance optimization, and writing robust tests.
 
----
-
-## 💼 Experience
-
-### 👨‍💼 **Senior React Native Developer** – Muuve  
-**03/2024 – Present | Remote**  
-- Developed a modern App  
-- Integrated google maps, google auto complete, and payment processing  
-- Collaborated with designers and backend developers to deliver a production-ready MVP
-
-### 👨‍💼 **Frontend Developer** – Fabulous Technology Solutions  
-**08/2023 – 03/2024 | Sialkot, Pakistan**  
-- Led mobile frontend for logistics and feedback apps using React Native  
-- Implemented local sync with SQLite for offline message storage  
-- Enabled real-time media sync including images, videos, and location sharing  
-- Published 4 mobile apps on the Google Play Store & Apple App Store
-
----
-
-## 📂 Projects
-
-### 🔴 **BanoLive**  
-Live streaming app with video/audio chat and PK battle mode  
-- Play Store: [BanoLive](https://play.google.com/store/apps/details?id=com.bano.live&hl=en)  
-- Built independently in React Native with Agora and Firebase  
-- Implemented multi-host streaming, PK battles, and optimized latency by 30%
-
-### 🚗 **GoZippRides**  
-Real-time ride-booking app with location tracking and car animation  
-- App Store: [GoZippRides iOS](https://apps.apple.com/us/app/zipprides/id6742736541)  
-- Play Store: [GoZippRides Android](https://play.google.com/store/apps/details?id=com.fabindrive)  
-- Used Google Maps SDK, live socket tracking, and real-time communication features
-
-### 🏥 **Care Feedback Solutions**  
-App for collecting real-time feedback in care homes  
-- App Store: [iOS](https://apps.apple.com/ng/app/care-feedback-solutions/id6483002024)  
-- Play Store: [Android](https://play.google.com/store/apps/details?id=com.fabtechsol2.feedback)  
-- Led development and performance optimization, API integration, and maintenance
-
-### 🍔 **DZFood**  
-Food delivery platform with Stripe integration  
-- App Store: [DZFood](https://apps.apple.com/us/app/dz-food/id1584951845)  
-- Developed UI in Expo, handled Laravel API integration, and implemented online payments
-
-### 🚚 **Rolling Adz**  
-Truck driver advertising app with real-time tracking  
-- App Store: [iOS](https://apps.apple.com/us/app/drive-rolling-adz/id6738464473)  
-- Play Store: [Android](https://play.google.com/store/apps/details?id=com.fabtechsol.izikrollingadz)  
-- Developed continuous background tracking and ensured store compliance
-
----
+What sets me apart? I don't just build features—I make them faster, smaller, and more secure. I've reduced bundle sizes by **43%**, cut memory usage by **17%**, and eliminated **100%** of high-risk security vulnerabilities in production systems.
 
 ## 🛠️ Skills & Tools
 
-### 🧠 Languages & Frameworks
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-- ![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
-- ![React Native CLI](https://img.shields.io/badge/React%20Native%20CLI-blue?style=flat-square&logo=react)
-- ![Expo](https://img.shields.io/badge/Expo-000020.svg?style=flat-square&logo=expo&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+### Languages & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-### 🔌 State & Data
-- ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-- ![Redux-Saga](https://img.shields.io/badge/Redux--Saga-999999?style=flat-square)
-- ![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-- ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧩 Backend & Services
-- ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-- Laravel (API Integration)
+### Testing & Security
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-### 🗺 Location, Realtime & Multimedia
-- ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-- ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socketdotio)
-- SQLite, WebSocket, Agora, Stripe, In-App Purchases
+### CMS & Tools
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🧪 Testing & CI/CD
-- ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-- Detox, Playwright, GitHub Actions
+### Cloud & Deployment
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🧰 Tools
-- ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-- Git, GitHub, Agile, App Store & Play Store deployment
+## 💼 Experience
 
----
+**Senior Frontend Developer** @ Muuve *(Aug 2023 – Feb 2026)* — Remote, South Africa
+- Developed the official Muuve real estate platform using React, Next.js (SSR/SSG), and Tailwind CSS; integrated Google Maps, Paystack, and Google Places APIs
+- Improved performance by **17%** using React memoization and lowered initial page load by **10%** via Next.js dynamic imports
+- Engineered a comprehensive dashboard for agents, tenants, and landlords, driving a **50%** increase in daily user engagement
+- Architected and integrated Sanity CMS, enabling non-technical teams to publish content without developer involvement; automated the entire blog workflow end-to-end
+- Leveraged AWS S3 for scalable file upload and media management
+
+**Frontend Developer (Internship)** @ Enigmatix *(Jan 2023 – Jun 2023)* — On Site, Bahawalpur
+- Contributed to OMS, an internal management system used by thousands of employees, investors, and clients to track 50+ projects simultaneously
+- Built a reusable component library in React + MobX, accelerating feature development by **30%** across 50+ internal projects
+- Wrote 100+ Jest test cases; removed 10–20 redundant files and hundreds of duplicate lines of legacy code
+
+## 📂 Featured Projects
+
+### [Muuve](https://muuve.co.za) | Real Estate Marketplace
+Production platform serving **South Africa and Switzerland**. Implemented property search (residential/commercial) with Google Maps, Paystack integration, and Smile ID for KYC verification. Supports **1,000+ daily active users**.
+- **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Sanity CMS, AWS S3
+
+### [Pafyll](https://pafyll.com) | E-commerce Platform
+Norwegian e-commerce client project. Redesigned homepage and products page; added contact page with end-to-end testing.
+- **Tech Stack:** Next.js, TypeScript, Playwright, CSS Modules
+- **Key Achievement:** Implemented comprehensive Playwright tests for critical user flows
+
+### OMS | Office Management System
+Internal system at Enigmatix for tracking 50+ projects simultaneously; eliminated workflow bottlenecks for thousands of employees.
+- **Tech Stack:** React, Redux Toolkit, MobX, CSS Modules, Jest
+- **Key Achievement:** Built reusable component library used across 50+ internal projects
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🎓 Education
 
-**BS in Computer Science**  
-*02/2017 – 01/2019*  
-Virtual University of Pakistan
+**Islamia University Bahawalpur**  
+Bachelor of Science in Information Technology  
+*GPA: 3.4 / 4.0*
 
 ---
 
-## 📫 Get in Touch
-
-- 📧 Email: [husnain.bin.ramzan@gmail.com](mailto:husnain.bin.ramzan@gmail.com)  
-- 📱 Phone: +92 321 4520432  
-- 🌍 Location: Lahore, Pakistan
+💡 *"Performance isn't a feature—it's a requirement."*
