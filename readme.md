@@ -5,12 +5,26 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husnain-frontend-engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnain.bin.ramzan@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923159775432)
+
+📍 **Pakistan, Lahore** · 📞 **+92 315 9775432**
+
+---
 
 ## 🚀 About Me
 
-I'm a Software Engineer with 3+ years of experience architecting and delivering scalable web applications for enterprise clients. I specialize in React, Next.js, and TypeScript, with a passion for clean architecture, performance optimization, and writing robust tests.
+I'm a **Software Engineer** with **3 years of experience** architecting and delivering scalable web applications for enterprise clients. I specialize in **React, Next.js, TypeScript, and Frontend Development**, with hands-on experience deploying and optimizing applications on **Vercel**.
 
-What sets me apart? I don't just build features—I make them faster, smaller, and more secure. I've reduced bundle sizes by **43%**, cut memory usage by **17%**, and eliminated **100%** of high-risk security vulnerabilities in production systems.
+What sets me apart? I don't just build features—I make them **faster, smaller, and more secure**. I've:
+
+- 📦 Reduced bundle size by **43%**
+- 🧠 Cut memory usage by **17%**
+- 🔒 Eliminated **100%** of high-risk security vulnerabilities
+- ⚡ Improved performance by **17%** and lowered initial page load by **10%**
+
+I'm passionate about **clean architecture, performance optimization, and unit testing**.
+
+---
 
 ## 🛠️ Skills & Tools
 
@@ -45,38 +59,64 @@ What sets me apart? I don't just build features—I make them faster, smaller, a
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 💼 Experience
+---
 
-**Senior Frontend Developer** @ Muuve *(Aug 2023 – Feb 2026)* — Remote, South Africa
-- Developed the official Muuve real estate platform using React, Next.js (SSR/SSG), and Tailwind CSS; integrated Google Maps, Paystack, and Google Places APIs
-- Improved performance by **17%** using React memoization and lowered initial page load by **10%** via Next.js dynamic imports
-- Engineered a comprehensive dashboard for agents, tenants, and landlords, driving a **50%** increase in daily user engagement
-- Architected and integrated Sanity CMS, enabling non-technical teams to publish content without developer involvement; automated the entire blog workflow end-to-end
-- Leveraged AWS S3 for scalable file upload and media management
+## 💼 Work Experience
 
-**Frontend Developer (Internship)** @ Enigmatix *(Jan 2023 – Jun 2023)* — On Site, Bahawalpur
-- Contributed to OMS, an internal management system used by thousands of employees, investors, and clients to track 50+ projects simultaneously
-- Built a reusable component library in React + MobX, accelerating feature development by **30%** across 50+ internal projects
-- Wrote 100+ Jest test cases; removed 10–20 redundant files and hundreds of duplicate lines of legacy code
+### **Senior Frontend Developer** @ Muuve
+*Remote | South Africa · Aug 2023 – Feb 2026*
+
+- 🚀 Improved performance by **17%** using React memoization and lowered initial page load by **10%** via Next.js dynamic imports
+- 🏠 Developed the official **Muuve real estate platform** using React, Next.js (SSR/SSG), and Tailwind CSS; integrated **Google Maps, Paystack, and Google Places APIs**
+- 📊 Engineered a comprehensive dashboard for agents, tenants, and landlords, driving a **50% increase in daily user engagement**
+- 📝 Architected and integrated **Sanity CMS**, enabling non-technical teams to publish content without developer involvement; automated the entire blog workflow end-to-end
+- ☁️ Leveraged **AWS S3** for scalable file upload and media management
+
+### **Frontend Developer (Internship)** @ Enigmatix
+*On Site | Bahawalpur · Jan 2023 – Jun 2023*
+
+- 🏢 Contributed to **OMS**, an internal management system used by thousands of employees, investors, and clients to track **50+ projects simultaneously**
+- 🧩 Built a reusable component library in **React + MobX**, accelerating feature development by **30%** across 50+ internal projects
+- ✅ Wrote **100+ Jest test cases**; removed 10–20 redundant files and hundreds of duplicate lines of legacy code
+
+---
 
 ## 📂 Featured Projects
 
-### [Muuve](https://muuve.co.za) | Real Estate Marketplace
-Production platform serving **South Africa and Switzerland**. Implemented property search (residential/commercial) with Google Maps, Paystack integration, and Smile ID for KYC verification. Supports **1,000+ daily active users**.
-- **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Sanity CMS, AWS S3
+### 🏡 [Muuve](https://muuve.co.za) | Real Estate Marketplace
+*At Muuve*
 
+Production platform serving **South Africa and Switzerland**. Implemented property search (residential/commercial) with **Google Maps, Paystack, and Smile ID (KYC)**. Supports **1,000+ daily active users**.
 
-### [OMS](https://www.oms.enigmatix.co/) | Office Management System
-Internal system at Enigmatix for tracking 50+ projects simultaneously; eliminated workflow bottlenecks for thousands of employees.
-- **Tech Stack:** React, Redux Toolkit, MobX, CSS Modules, Jest
-- **Key Achievement:** Built reusable component library used across 50+ internal projects
+**Tech Stack:** React · Next.js · TypeScript · Tailwind CSS · Sanity CMS · AWS S3
 
+---
+
+### 🏢 [OMS](https://www.oms.enigmatix.co/) | Office Management System
+*At Enigmatix*
+
+Internal system for tracking **50+ projects** simultaneously; eliminated workflow bottlenecks for thousands of employees.
+
+**Tech Stack:** React · Redux Toolkit · MobX · CSS Modules · Jest
+
+**Key Achievement:** Built reusable component library used across **50+ internal projects**
+
+---
 
 ## 🎓 Education
 
 **Islamia University Bahawalpur**  
 Bachelor of Science in Information Technology  
 *GPA: 3.4 / 4.0*
+
+---
+
+## 📬 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husnain-frontend-engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnain.bin.ramzan@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923159775432)
 
 ---
 
