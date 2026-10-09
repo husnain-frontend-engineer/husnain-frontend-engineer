@@ -5,18 +5,19 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husnain-frontend-engineer/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-husnain-0519b43b0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnain.bin.ramzan@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923203048324)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923139120432)
 
-📍 **Pakistan, Lahore** · 📞 **+92 320 3048324**
+📍 **Pakistan, Lahore** · 📞 **+92 313 9120432**
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** with **3 years of experience** architecting and delivering scalable web applications for enterprise clients. I specialize in **React, Next.js, TypeScript, and Frontend Development**, with hands-on experience deploying and optimizing applications on **Vercel**.
+I'm a **Full Stack Engineer** with **4 years of experience** architecting and delivering scalable web applications for enterprise clients. I specialize in **React, Next.js, TypeScript, Node.js, Express, and PostgreSQL**, with hands-on experience deploying and optimizing applications on **Vercel** and **AWS**.
 
-What sets me apart? I don't just build features—I make them **faster, smaller, and more secure**. I've:
+What sets me apart? I don't just build features—I own the full lifecycle, from zero-code to production, and make everything **faster, smaller, and more secure**. I've:
 
+- 🏗️ Built an entire real estate platform from the ground up as the **sole founding engineer**
 - 📦 Reduced bundle size by **43%**
 - 🧠 Cut memory usage by **17%**
 - 🔒 Eliminated **100%** of high-risk security vulnerabilities
@@ -28,7 +29,7 @@ I'm passionate about **clean architecture, performance optimization, and unit te
 
 ## 🛠️ Skills & Tools
 
-### Languages & Frameworks
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,6 +37,11 @@ I'm passionate about **clean architecture, performance optimization, and unit te
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -63,11 +69,13 @@ I'm passionate about **clean architecture, performance optimization, and unit te
 
 ## 💼 Work Experience
 
-### **Senior Frontend Developer** @ Muuve
-*Remote | South Africa · Aug 2023 – Feb 2026*
+### **Full Stack Engineer** @ Muuve
+*Remote | South Africa · Aug 2023 – May 2026*
 
+- 🧭 Owned the full technical lifecycle: from zero-code to production, including architecture decisions, deployment, and post-launch optimizations
+- 🏗️ Built the entire **Muuve real estate platform** from the ground up as the **sole founding engineer**, serving South Africa and Switzerland with **1,000+ daily active users**
 - 🚀 Improved performance by **17%** using React memoization and lowered initial page load by **10%** via Next.js dynamic imports
-- 🏠 Developed the official **Muuve real estate platform** using React, Next.js (SSR/SSG), and Tailwind CSS; integrated **Google Maps, Paystack, and Google Places APIs**
+- 🏠 Developed the official platform end to end using React, Next.js (SSR/SSG), Tailwind CSS, **Node.js, Express, and PostgreSQL**; integrated **Google Maps, Paystack, and Google Places APIs**
 - 📊 Engineered a comprehensive dashboard for agents, tenants, and landlords, driving a **50% increase in daily user engagement**
 - 📝 Architected and integrated **Sanity CMS**, enabling non-technical teams to publish content without developer involvement; automated the entire blog workflow end-to-end
 - ☁️ Leveraged **AWS S3** for scalable file upload and media management
@@ -88,7 +96,7 @@ I'm passionate about **clean architecture, performance optimization, and unit te
 
 Production platform serving **South Africa and Switzerland**. Implemented property search (residential/commercial) with **Google Maps, Paystack, and Smile ID (KYC)**. Supports **1,000+ daily active users**.
 
-**Tech Stack:** React · Next.js · TypeScript · Tailwind CSS · Sanity CMS · AWS S3
+**Tech Stack:** React · Next.js · TypeScript · Tailwind CSS · Node.js · Express · PostgreSQL · Sanity CMS · AWS S3
 
 ---
 
@@ -100,6 +108,15 @@ Internal system for tracking **50+ projects** simultaneously; eliminated workflo
 **Tech Stack:** React · Redux Toolkit · MobX · CSS Modules · Jest
 
 **Key Achievement:** Built reusable component library used across **50+ internal projects**
+
+---
+
+### 🎌 [Miruro](https://miruro.to) | Anime Live Streaming Platform
+*Open Source*
+
+Self-hosted open-source backend on **AWS**; integrated **AniList authentication** and **Disqus commenting**. Upgraded the UI with a modern design, improving user experience by **50%+**. Built a fully customizable settings page (theme colors, preferences).
+
+**Tech Stack:** AWS · AniList · Disqus
 
 ---
 
@@ -116,7 +133,7 @@ Bachelor of Science in Information Technology
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husnain-frontend-engineer/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-husnain-0519b43b0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnain.bin.ramzan@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923203048324)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923139120432)
 
 ---
 
